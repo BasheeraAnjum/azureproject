@@ -1,0 +1,15 @@
+{
+	"name": "datafactoryforspotify",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "southeastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "26d43d77-9649-406b-ae2f-3b5263f5a1be",
+		"tenantId": "5b6b0a96-a626-43e8-80d5-a896f0a32615"
+	}
+}
